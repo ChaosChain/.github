@@ -34,4 +34,3 @@ We reject the rigid architectures of traditional blockchains — systems that ce
 * **Read our Litepaper:** [chaoschain-lite-paper.vercel.app](https://chaoschain-lite-paper.vercel.app/)
 * **Website:** [chaoschain.fun](https://chaoschain.fun/)
 * **Telegram:** [t.me/thechaoschain](https://t.me/thechaoschain)
-* *(Consider adding links to Key Repositories, Documentation, or Contribution Guides here)*
